@@ -22,7 +22,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/supuna97/expressjs_mvc.git
+git clone https://github.com/CodeRafay/nodemailer-mvc-app.git
 cd expressjs_mvc
 ```
 
