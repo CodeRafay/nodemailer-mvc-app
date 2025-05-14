@@ -1,0 +1,27 @@
+{
+  "name": "expressjs_mvc",
+  "version": "1.0.0",
+  "description": "NodeJS Express with MVC without DB connection.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeRafay/nodemailer-mvc-app.git"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "mvc"
+  ],
+  "author": "Rafay Adeel",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "nodemailer": "^7.0.3"
+  }
+}
